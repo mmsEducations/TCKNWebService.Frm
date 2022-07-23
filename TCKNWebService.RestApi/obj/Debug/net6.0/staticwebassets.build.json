@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ReqH3rdSGuRGCMw3jAdzJ0Q5N1kukEbGaXzcIHfGohs=",
+  "Source": "TCKNWebService.RestApi",
+  "BasePath": "_content/TCKNWebService.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
